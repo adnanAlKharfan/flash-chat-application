@@ -9,7 +9,7 @@ Flash Chat is a feature-rich iOS application designed to facilitate seamless cha
 - [Requirements](#Requirements)
 - [Installation](#Installation)
 - [Usage](#Usage)
-- [File Structure](#File%20Structure)
+- [File Structure](#File-Structure)
 
 ## Features
 
